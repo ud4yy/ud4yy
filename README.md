@@ -71,11 +71,11 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
 
-<a href="https://github.com/Vatsmanglam/Superstore-Dataset-Analysis-And-Profit-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsmanglam&repo=Superstore-Dataset-Analysis-And-Profit-Prediction&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true" />
+<a href="https://github.com/ud4yy/LoanManagement_System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ud4yy&repo=LoanManagement_System&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true" />
 </a>
-<a href="https://github.com/Vatsmanglam/BRTS-Simulator-Using-CPP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsmanglam&repo=BRTS-Simulator-Using-CPP&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true" />
+<a href="https://github.com/ud4yy/ViT-AccidentDetection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ud4yy&repo=ViT-AccidentDetection&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true" />
 </a>
 </div>
 
