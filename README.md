@@ -75,6 +75,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ud4yy&repo=LoanManagement_System&theme=midnight-purple&description_lines_count=0&text_bold=true&show_icons=true" />
 </a>
 <a href="https://github.com/ud4yy/ViT-AccidentDetection">
+  "Adsadasd"
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ud4yy&repo=ViT-AccidentDetection&theme=midnight-purple&description_lines_count=0&text_bold=true&show_icons=true" />
 </a>
 </div>
