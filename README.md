@@ -1,3 +1,4 @@
+
 <h1 align="left">Hello 👋, I'm Uday</h1>
 
 [![](https://visitcount.itsvg.in/api?id=ud4yy&label=Profile%20Views&color=11&icon=2&pretty=false)](https://visitcount.itsvg.in) 
@@ -11,7 +12,7 @@
 
 - 🌱 I’m a Final Year student of KLE Tech
 
-- 📫 How to reach me ud4yworks@gmail.com
+- 📫 How to reach me: ud4yworks@gmail.com
 
 - ⚡ Fun fact - The first recorded software bug was a moth found in a computer in 1947, which led to the term "debugging".
 
@@ -30,9 +31,6 @@
   <a href="https://git.io/awesome-stats-card">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ud4yy?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />
   </a>
-  <a href="https://github.com/ud4yy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ud4yy&layout=donut&theme=midnight-purple&text_bold=true&show_icons=true" alt="Top Languages" />
-  </a>
 </div>
 
 ### ✍️ Random Dev Quote
@@ -47,17 +45,15 @@
   </a>
 </div>
 
-<h3 align="left">Top Repositories:</h3>
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<h3 align="left">My Personal Projects:</h3>
+<ul>
+  <li><a href="https://github.com/ud4yy/LoanManagement_System" target="_blank">Spring Boot Backend Project</a></li>
+  <li><a href="https://github.com/ud4yy/ViT-AccidentDetection" target="_blank">ViT Accident Detection</a></li>
+  <li><a href="https://github.com/ud4yy/PagingSimulation" target="_blank">Page Replacement Simulation with CPP</a></li>
+  <li><a href="https://github.com/ud4yy/Machine-Thinking" target="_blank">Machine Thinking</a></li>
+  <li><a href="https://github.com/ud4yy/Rootz-MERN" target="_blank">MERN-based Hotel Management System</a></li>
+  <li><a href="https://github.com/ud4yy/kspofficialREPO" target="_blank">Karnataka State Police Hackathon Product</a></li>
+  <li><a href="https://github.com/ud4yy/Article-Scrap-Summarize" target="_blank">Article Scrap & Summarize</a></li>
+  <li><a href="https://github.com/ud4yy/sign-spot" target="_blank">Sign Spotting</a></li>
+</ul>
 
-<a href="https://github.com/ud4yy/LoanManagement_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ud4yy&repo=LoanManagement_System&theme=midnight-purple&text_bold=true&show_icons=true" />
-</a>
-<p>Loan Management System is a project that automates the process of managing loans, enabling easy tracking and management for banks or financial institutions.</p>
-
-<a href="https://github.com/ud4yy/ViT-AccidentDetection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ud4yy&repo=ViT-AccidentDetection&theme=midnight-purple&text_bold=true&show_icons=true" />
-</a>
-<p>ViT Accident Detection is a deep learning model utilizing Vision Transformers to detect potential vehicle collisions in real-time using video data.</p>
-
-</div>
