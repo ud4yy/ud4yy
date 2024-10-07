@@ -18,9 +18,10 @@
 
 <h3 align="left">Find me :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/manglamvats/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/manglamvats175/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/gfg-icon.svg" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/ud4yy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/uday-jartarghar-b5711a284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+
+<a href="https://www.naukri.com/code360/profile/AgeNtX" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/9cdbfc9e-6ea5-4865-b9bd-394e589a461a)
+" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
