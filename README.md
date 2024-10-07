@@ -40,7 +40,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vatsmanglam?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ud4yy?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />
   </a>
   <a href="https://github.com/ud4yy">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ud4yy&layout=donut&theme=midnight-purple&text_bold=true&show_icons=true" alt="Top Languages" />
@@ -56,7 +56,7 @@
 <h3 align="left">GitHub Streak:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vatsmanglam&theme=dark&background=0D1117&ring=F2AD00&fire=F2AD00&currStreakLabel=F2AD00" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=ud4yy&theme=dark&background=0D1117&ring=F2AD00&fire=F2AD00&currStreakLabel=F2AD00" alt="GitHub Streak Stats" />
   </a>
 </div>
  
