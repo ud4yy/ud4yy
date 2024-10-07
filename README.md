@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/uday-jartarghar-b5711a284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 
-<a href="https://www.naukri.com/code360/profile/AgeNtX" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2Fcodingninjas%2Fevents%2F%3Flocale%3Den_GB&psig=AOvVaw3McCBpxeH7zAE5FxQvB5WJ&ust=1728376511499000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj6n8ru-4gDFQAAAAAdAAAAABAE" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/AgeNtX" target="blank"><img align="center" src="https://drive.google.com/file/d/1VKF_SIZ_cA2V96EDiwCL7-hIz7knbFA7/view?usp=sharing" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
