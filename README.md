@@ -38,6 +38,9 @@
   <a href="https://git.io/awesome-stats-card">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ud4yy?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />
   </a>
+   <a href="https://github.com/Vatsmanglam">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ud4yy&layout=donut&theme=midnight-purple&text_bold=true&show_icons=true" alt="Top Languages" />
+  </a>
 </div>
 
 ### ✍️ Random Dev Quote
